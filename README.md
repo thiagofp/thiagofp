@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @thiagofp
-- 👀 I’m interested in .Net 6 / WebAPI / Xamarin / Software Architecture 
+- Hi, I’m @thiagofp
+- I’m currently working on .Net stack mainly in backend services and microservices.
+- I have professional experience in java, .net, python and node.
+- I'm currently studing topics such as Machine learning and Distributed systems
 
 
 <div>
