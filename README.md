@@ -1,7 +1,11 @@
 - Hi, I’m Thiago Figueredo Pereira
 - Actually working as Senior software engineer
 - I’m currently working on .Net stack mainly in backend services and microservices.
-- I have 10+ years of professional experience in languages like java, .net, python and node.
+- I have 10+ years of professional experience in:
+    - Backend: java, .net, python and node.js.
+    - Frontend: Angular
+    - Tools: RabbitMQ, Azure, AWS
+- I'm interested in design patterns, architecture and scalability
 - I'm currently studing topics such as Machine learning and Distributed systems
 
 
