@@ -1,4 +1,5 @@
-- Hi, I’m @thiagofp
+- Hi, I’m Thiago Figueredo Pereira
+- Actually working as Senior software engineer
 - I’m currently working on .Net stack mainly in backend services and microservices.
 - I have 10+ years of professional experience in languages like java, .net, python and node.
 - I'm currently studing topics such as Machine learning and Distributed systems
