@@ -4,7 +4,6 @@
 - I have 10+ years of professional experience in:
     - Backend: java, .net, python and node.js.
     - Frontend: Angular
-    - Tools: RabbitMQ, Azure, AWS
 - I'm interested in design patterns, architecture and scalability
 - I'm currently studing topics such as Machine learning and Distributed systems
 
